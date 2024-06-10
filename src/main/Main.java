@@ -18,7 +18,7 @@ public class Main {
 		do {
 			System.out.println("Welcome:");
 			System.out.println("1. Login");
-			System.out.println("2. Register"	);
+			System.out.println("2. Register");
 			
 			System.out.print("\nSelect: ");
 			
